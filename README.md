@@ -41,7 +41,7 @@ GridSearch是一個暴力搜尋法(窮舉搜尋法)，他會嘗試所有超參�
 
     参考網址：http://scikit-learn.org/stable/modules/model_evaluation.html
 
-  * GridSearch其他參數&功能
+  * GridSearchCV其他參數&功能
 
     參考網址:https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 
